@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hello there 👋 
 
-<!--
-**awmoreira/awmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Allan Winckler, 
 
-Here are some ideas to get you started:
+Software Engineer - Full Stack Developer NodeJs, React JS, React Native | Master in Management Systems - Information Systems
+Master in Total Quality Management Systems from Universidade Federal Fluminense, Brasil. 👨🏻‍💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
+ 
+ **Languages and Frameworks:**
+<p align="left">
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="javascript" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_48x48.png" alt="css" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_48x48.png" alt="php" width="40" height="40" /></code>&nbsp;
+  
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="react-native" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40" /></code>&nbsp;  
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40" /></code>&nbsp;
+   </p>
+
+**Connect with me:**
+<p align="left">
+<a href="https://www.linkedin.com/in/awmoreira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="awmoreira" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/allan.winckler/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="allan.winckler" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/allanwinckler.moreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="allanwinckler.moreira" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/allanwinckler.moreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="allanwinckler.moreira" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
+
+
+Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
+
+<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
+
+![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=awmoreira&count_private=true&show_icons=true)
+
+---
+
+### Credit to 
+-  Mandragora Estudio **for GIF**. 
+
+https://dribbble.com/shots/9344637-working-hard
