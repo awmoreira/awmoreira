@@ -23,9 +23,8 @@ Master's in Total Quality Management Systems from Federal Fluminense University,
 **Connect with me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/awmoreira/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="awmoreira" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/allan.winckler/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="allan.winckler" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/wincklerallan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="allanwinckler.moreira" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/allanwinckler.moreira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="allanwinckler.moreira" height="40" width="40" /></a> &nbsp;&nbsp;
+&nbsp;&nbsp;
 </p>
 
 
