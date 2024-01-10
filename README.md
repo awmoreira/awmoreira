@@ -3,7 +3,7 @@
 ### I'm Allan Winckler, 
 
 Software Engineer - Full Stack Developer React Native, React JS, NodeJs  | Master's in Management Systems of Quality - Information Systems
-Master's in Total Quality Management Systems from Universidade Federal Fluminense, Brazil. 👨🏻‍💻 
+Master's in Total Quality Management Systems from Federal Fluminense University, Brazil. 👨🏻‍💻 
 
 <img align="right" alt="GIF" src="https://github.com/Arvindcs/Arvindcs/blob/main/Source/image.gif?raw=true" width="400" height="300" />
  
